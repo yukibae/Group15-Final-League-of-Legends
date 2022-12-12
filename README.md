@@ -1,6 +1,21 @@
-# This is your readme
-You are required to fill it in with documentation similar to that found in the Sequelize example for the course as part of your final project.
+# INST 377 Final Project
+This repository is the final project. It represents what we have learned this semester as a group. The projext is a League of Legends Database that can get information like account level and rank. 
 
-### How to use Markdown
-Markdown is a text notation system used in Discord, Whatsapp and similar to structure pages without writing HTML at all. You'll be using it for your documentation.
-* [Markdown guide](https://www.markdownguide.org/cheat-sheet/)
+### Target Browser
+Desktop but should be compatible for all browsers
+
+### Decription
+This section includes api links, visualisation, Libraries used, CSS frameworks, and what the project is trying to display.
+
+# Player Icon
+
+## Get player icon
+
+`GET /api/icon`
+        curl http://localhost:3030/api/icon
+
+### Response
+
+
+
+
