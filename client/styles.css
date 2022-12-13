@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+ 
 }
 
 .container{
@@ -19,14 +20,14 @@
     
 }
 
-#logo {
-    position:fixed;
-    margin
+.logo img {
+    position:absolute;
+    top: 22%;
 }
 
 .search-bar{
     width: 100%;
-    max-width: 700px;
+    max-width: 750px;
     background:rgba(0, 0, 0, 0.5);
     display: flex;
     align-items: center;
@@ -59,4 +60,15 @@
     height: 60px;
     background: pink;
     cursor: pointer;
+}
+
+@media only screen and (max-width: 720px){
+    .container {
+      background-image: url(/images/background.webp) center center fixed;
+      background-position: center;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      background-size: cover;
+    }
 }
