@@ -7,6 +7,9 @@ Desktop but should be compatible for all browsers
 ### Decription
 This section includes api links, visualisation, Libraries used, CSS frameworks, and what the project is trying to display.
 
+# Api Information
+The API key needs to be refreshed every 2 days
+
 # Player Icon
 
 ## Get player icon
