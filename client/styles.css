@@ -8,13 +8,20 @@
 .container{
     width: 100%;
     min-height: 100vh;
+    vertical-align: middle;
     padding: 5%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), url(images/background.webp));
+    background-image: url(../images/background.webp);
     background-position: center;
     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
+    
+}
+
+#logo {
+    position:fixed;
+    margin
 }
 
 .search-bar{
