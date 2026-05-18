@@ -1,5 +1,5 @@
 # INST 377 Final Project
-This repository is the final project. It represents what we have learned this semester as a group. The projext is a League of Legends Database that can get information like account level and rank. 
+This repository is the final project. It represents what we have learned this semester as a group. The project is a League of Legends Database that can get information like account level and rank. 
 
 ### Target Browser
 Desktop but should be compatible for all browsers
